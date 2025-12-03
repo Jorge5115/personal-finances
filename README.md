@@ -8,7 +8,7 @@ Este proyecto se diseñó para ofrecer un control total sobre las finanzas, util
 
 ### ✨ Características Principales
 
-* **📊 Resumen Financiero:** Gráficos dinámicos para el estudio de Ingresos y Gastos, con filtros por semana, mes, año o historial completo.
+* **📊 Resumen Financiero:** Gráficos dinámicos para el estudio de Ingresos y Gastos, con filtros a gusto.
 * **✍️ Gestión de Transacciones:** Funcionalidad CRUD completa (Crear, Editar, Eliminar) para cada movimiento.
 * **🔎 Búsqueda Avanzada:** Filtros por Tipo (Ingreso/Gasto), Categoría y Rango de Fechas específico.
 
